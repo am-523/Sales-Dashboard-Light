@@ -1,0 +1,23 @@
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\Sales Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\Sales Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\Sales Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\Sales Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales_Dashboard.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\obj\Debug\Sales Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.dll
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.WinForms.dll
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.Wpf.dll
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.pdb
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.xml
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.WinForms.pdb
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.WinForms.xml
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+D:\AW 17\Source Code Visual Studio 19\Sales Dashboard\bin\Debug\LiveCharts.Wpf.xml

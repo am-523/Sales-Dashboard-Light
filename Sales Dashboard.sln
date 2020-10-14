@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sales Dashboard", "Sales Dashboard.vbproj", "{B898E4B0-BCD8-40E8-950F-C40F82041211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B898E4B0-BCD8-40E8-950F-C40F82041211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B898E4B0-BCD8-40E8-950F-C40F82041211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B898E4B0-BCD8-40E8-950F-C40F82041211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B898E4B0-BCD8-40E8-950F-C40F82041211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EE501F-A7CF-4E5A-B772-04AD7B0D83A3}
+	EndGlobalSection
+EndGlobal
